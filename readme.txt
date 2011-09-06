@@ -21,6 +21,8 @@ This plugin requires JavaScript to be enabled.
 
 Upload the plugin to your blog, activate it, done. You can then rebuild all thumbnails in the tools section (Tools -> Rebuild Thumbnails).
 
+If you use W3 Total Cache, add the following exception in the "Never cache the following pages:" setting (Performance -> Page Cache): "admin-.*\.php"
+
 == Changelog ==
 
 = 1.05 =
